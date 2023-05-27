@@ -19,8 +19,8 @@ https://quick-lint-js.com/demo/dist/quick-lint-js-vscode.wasm
 ```
 
 ## Why? 
-The Author of Quic Lint is known to be not the most clever while he is able to implement some fundamental algos
-and manual write and debug code he is not able to studie tie interfaces that he uses so we created a fork that solves that
+The Author of Quick Lint is known to be not the most clever while he is able to implement some fundamental algos
+and manual write and debug code he is not able to studie the interfaces that he uses so we created a fork that solves that
 this is 10x faster then quick lint is normal in code-oss
 
 He was thinking that he needs to use the LSP but thats wrong he needs to use the workspace api the LSP is connected to the workspace
