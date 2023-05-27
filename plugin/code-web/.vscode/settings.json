@@ -1,0 +1,7 @@
+{
+   "quick-lint.launchBehavior": "newSwing",
+   "quick-lint.templateGalleries": [
+      "web:basic",
+      "web:components"
+   ]
+}
