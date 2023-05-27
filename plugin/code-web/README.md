@@ -10,3 +10,10 @@ Copy the content of this folder directly to your web server run npm install or y
 
 ## Build
 https://github.com/lemanschik/quick-lint-js/blob/ide/website/wasm/README.md
+
+
+## Demo
+```
+https://quick-lint-js.com/demo/demo.bundled.js
+https://quick-lint-js.com/demo/dist/quick-lint-js-vscode.wasm
+```
